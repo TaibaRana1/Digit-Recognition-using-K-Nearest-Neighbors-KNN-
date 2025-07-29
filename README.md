@@ -112,10 +112,10 @@ The confusion matrix clearly illustrated where misclassifications occurred, high
 
  Metric                | Score                        
 
- Accuracy              | \~91%                        
- Best `k`              | 3                            
- Preprocessing         | Normalization + Optional PCA 
- PCA Variance Retained | 95%                          
+ Accuracy              |  \~91%                        
+ Best `k`              |  3                            
+ Preprocessing         |  Normalization + Optional PCA 
+ PCA Variance Retained |  95%                          
 
 
 
