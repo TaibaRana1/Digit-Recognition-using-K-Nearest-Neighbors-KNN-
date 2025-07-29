@@ -1,6 +1,6 @@
 # Digit Recognition Using K-Nearest Neighbors (KNN)
 
-This project focuses on building a handwritten digit classification system using the K-Nearest Neighbors (KNN) algorithm — entirely from scratch. No prebuilt classifiers or advanced ML libraries were used. Instead, the focus was on manually constructing each step of the pipeline using fundamental tools like NumPy, pandas, and matplotlib, with the aim of learning core machine learning principles through hands-on implementation.
+This project focuses on building a handwritten digit classification system using the K-Nearest Neighbors (KNN) algorithm entirely from scratch. No prebuilt classifiers or advanced ML libraries were used. Instead, the focus was on manually constructing each step of the pipeline using fundamental tools like NumPy, pandas, and matplotlib.
 
 ---
 
@@ -11,6 +11,7 @@ The task was to classify handwritten digits (0–9) from the MNIST dataset using
 We approached this project by designing a full machine learning pipeline: from data loading and visualization, to implementing KNN manually, to evaluating performance using accuracy, confusion matrices, and visual inspection.
 
 ---
+
 
 ## Dataset
 
